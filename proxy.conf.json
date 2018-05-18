@@ -1,0 +1,10 @@
+{
+  "/yydd-web": {
+    "target": "www.yuanyoudadi.com/yydd-web",
+    "secure": false,
+    "changeOrigin": true
+  },
+  "pathRewrite": {
+    "^/yydd-web": ""
+  }
+}
